@@ -4,3 +4,9 @@ C:\Users\PeterNguyen\Desktop\CodeMySeft\LINQ\bin\Debug\LINQ.pdb
 C:\Users\PeterNguyen\Desktop\CodeMySeft\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
 C:\Users\PeterNguyen\Desktop\CodeMySeft\LINQ\obj\Debug\LINQ.exe
 C:\Users\PeterNguyen\Desktop\CodeMySeft\LINQ\obj\Debug\LINQ.pdb
+C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\LINQ\obj\Debug\LINQ.exe
+C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\LINQ\obj\Debug\LINQ.pdb
+C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\LINQ\bin\Debug\LINQ.exe
+C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\LINQ\bin\Debug\LINQ.pdb
+C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
