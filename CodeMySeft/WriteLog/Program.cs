@@ -11,7 +11,7 @@ namespace WriteLog
     public class Program
     {
         private static readonly ILog logger = LogManager.GetLogger("PETER");
-        // PETER Tên Log sẽ xuất hiện trong file LOG. Chỗ này có thể để tên Class
+        // PETER Tên Log sẽ xuất hiện trong file LOG. Chỗ này có thể để tên Class, hoặc tên hệ thống
 
         static void Main(string[] args)
         {
@@ -49,7 +49,7 @@ namespace WriteLog
             // https://logging.apache.org/log4net/download_log4net.cgi
 
             // Cấu hình log4net
-            // 1. Cấu hình trong file AssemblyInfo.cs (Properties)
+            // 1. Cấu hình trong file AssemblyInfo.cs (Properties) để trỏ tới file config log4net
             // [assembly: log4net.Config.XmlConfigurator(Watch = true)]
             // [assembly: log4net.Config.XmlConfigurator(ConfigFile="App.config", Watch = true)]
             // 2. Cấu hình trong file App.config
