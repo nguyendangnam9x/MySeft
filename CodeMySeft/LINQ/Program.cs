@@ -11,7 +11,7 @@ namespace LINQ
         static void Main(string[] args)
         {
             // LINQ Systax
-            // LinQSystax();
+            LinQSystax();
 
             // Lambda Expressions
             // LambdaExpressions();
@@ -243,9 +243,19 @@ namespace LINQ
 
         public static void LinQSystax()
         {
+            //int[] Num = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            //// IEnumerable<int> result = from numbers in Num where numbers > 3 select numbers;
+            //IEnumerable<int> result = Num.Where(x => x > 3).ToList();
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
             int[] Num = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            // IEnumerable<int> result = from numbers in Num where numbers > 3 select numbers;
-            IEnumerable<int> result = Num.Where(x => x > 3).ToList();
+
+            IEnumerable<int> result = from numbers in Num
+                                      where numbers > 3
+                                      select numbers;
+
             foreach (var item in result)
             {
                 Console.WriteLine(item);
