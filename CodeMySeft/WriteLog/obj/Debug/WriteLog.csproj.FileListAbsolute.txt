@@ -5,3 +5,12 @@ C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\WriteLog\obj\Debug\WriteLog.e
 C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\WriteLog\obj\Debug\WriteLog.pdb
 C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\WriteLog\bin\Debug\log4net.dll
 C:\Users\PeterNguyen\Desktop\GIT\MySeft\CodeMySeft\WriteLog\obj\Debug\WriteLog.csprojResolveAssemblyReference.cache
+D:\APP_MY_SEFT\MySeft\CodeMySeft\WriteLog\bin\Debug\WriteLog.exe.config
+D:\APP_MY_SEFT\MySeft\CodeMySeft\WriteLog\bin\Debug\WriteLog.exe
+D:\APP_MY_SEFT\MySeft\CodeMySeft\WriteLog\bin\Debug\WriteLog.pdb
+D:\APP_MY_SEFT\MySeft\CodeMySeft\WriteLog\bin\Debug\log4net.dll
+D:\APP_MY_SEFT\MySeft\CodeMySeft\WriteLog\obj\Debug\WriteLog.csprojAssemblyReference.cache
+D:\APP_MY_SEFT\MySeft\CodeMySeft\WriteLog\obj\Debug\WriteLog.csproj.CoreCompileInputs.cache
+D:\APP_MY_SEFT\MySeft\CodeMySeft\WriteLog\obj\Debug\WriteLog.csproj.CopyComplete
+D:\APP_MY_SEFT\MySeft\CodeMySeft\WriteLog\obj\Debug\WriteLog.exe
+D:\APP_MY_SEFT\MySeft\CodeMySeft\WriteLog\obj\Debug\WriteLog.pdb

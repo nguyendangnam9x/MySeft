@@ -1,0 +1,7 @@
+D:\APP_MY_SEFT\MySeft\CodeMySeft\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+D:\APP_MY_SEFT\MySeft\CodeMySeft\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+D:\APP_MY_SEFT\MySeft\CodeMySeft\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+D:\APP_MY_SEFT\MySeft\CodeMySeft\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojAssemblyReference.cache
+D:\APP_MY_SEFT\MySeft\CodeMySeft\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+D:\APP_MY_SEFT\MySeft\CodeMySeft\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+D:\APP_MY_SEFT\MySeft\CodeMySeft\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb

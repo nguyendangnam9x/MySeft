@@ -23,8 +23,8 @@ namespace WriteLog
         {
             try
             {
-                string folderLog = Environment.CurrentDirectory + "\\LOGS";
-                string location = folderLog + "\\" + DateTime.Now.ToString("yyyyMMdd") + ".txt";
+                var folderLog = Environment.CurrentDirectory + "\\LOGS";
+                var location = folderLog + "\\" + DateTime.Now.ToString("yyyyMMdd") + ".txt";
                 if (!Directory.Exists(folderLog))
                 {
                     Directory.CreateDirectory(folderLog);
@@ -36,9 +36,9 @@ namespace WriteLog
                     fs.Close();
                 }
                 StreamWriter sw = new StreamWriter(location, true);
-                sw.Write(DateTime.Now.ToString() + " - " + message + Environment.NewLine);
+                var txtError = DateTime.Now.ToString() + " - " + message + Environment.NewLine;
+                sw.Write(txtError);
                 sw.Close();
-                sw = null;
             }
             catch (Exception){}
         }
