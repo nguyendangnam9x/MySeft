@@ -1,0 +1,7 @@
+D:\APP_MY_SEFT\MySeft\CodeMySeft\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+D:\APP_MY_SEFT\MySeft\CodeMySeft\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+D:\APP_MY_SEFT\MySeft\CodeMySeft\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+D:\APP_MY_SEFT\MySeft\CodeMySeft\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojAssemblyReference.cache
+D:\APP_MY_SEFT\MySeft\CodeMySeft\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+D:\APP_MY_SEFT\MySeft\CodeMySeft\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+D:\APP_MY_SEFT\MySeft\CodeMySeft\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb

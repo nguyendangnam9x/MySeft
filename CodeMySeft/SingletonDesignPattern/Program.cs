@@ -14,7 +14,7 @@ namespace SingletonDesignPattern
          * 2. Cung cấp toàn cầu để truy cập đến instance đó
          * Lưu ý khi làm việc với đơn luồng hoặc đa luồng
          * 
-         * Sử dụng Parallel.Invoke để test trường hợp đa luồng
+         * Sử dụng Parallel.Invoke để test trường hợp đa luồng (multiple thread). Chạy function cùng một thời điểm
          * Trường hợp đa luồng: 
          *    - Cần sử dụng lock để đảm bảo rằng trong cùng 1 thời điểm chỉ được gọi instance 1 lần
          * */
